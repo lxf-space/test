@@ -5,5 +5,6 @@ public class Demo01 {
         System.out.println("主干");
         System.out.println("11111111111111");
         System.out.println("010101011111111111111111111111111111111111111");
+        System.out.println("222222222222222222");
     }
 }
